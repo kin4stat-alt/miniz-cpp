@@ -11,7 +11,7 @@
 #include <unistd.h> // For fileno, isatty
 #endif
 
-#include <zip_file.hpp>
+#include <miniz-cpp/zip_file.hpp>
 
 namespace {
 
